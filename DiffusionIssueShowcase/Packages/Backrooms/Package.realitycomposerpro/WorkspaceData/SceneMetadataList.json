@@ -1,0 +1,139 @@
+{
+  "1608052B-1051-4BDD-B6C1-EB41BC37088A" : {
+    "objectMetadataList" : [
+      [
+        "1608052B-1051-4BDD-B6C1-EB41BC37088A",
+        "backrooms3Root",
+        "Ceiling_Close"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "1608052B-1051-4BDD-B6C1-EB41BC37088A",
+        "backrooms3Root",
+        "Wall_Close"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "1608052B-1051-4BDD-B6C1-EB41BC37088A",
+        "backrooms3Root",
+        "Video_Dock"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "1608052B-1051-4BDD-B6C1-EB41BC37088A",
+        "backrooms3Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "5823621C-B10F-4D82-84D7-882D92C5BF87" : {
+    "objectMetadataList" : [
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Floor"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "_materials",
+        "carpet"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "_materials",
+        "emmisive"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "_materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Wall_Close",
+        "WallCloseMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Ceiling_Close",
+        "CeilingCloseMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Ceiling_Close"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Ceiling_Close",
+        "Ceiling_Close"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Video_Dock"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}
