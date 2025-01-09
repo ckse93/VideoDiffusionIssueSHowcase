@@ -3,6 +3,14 @@
     "objectMetadataList" : [
       [
         "1608052B-1051-4BDD-B6C1-EB41BC37088A",
+        "backrooms3Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "1608052B-1051-4BDD-B6C1-EB41BC37088A",
         "backrooms3Root",
         "Ceiling_Close"
       ],
@@ -30,7 +38,50 @@
       },
       [
         "1608052B-1051-4BDD-B6C1-EB41BC37088A",
-        "backrooms3Root"
+        "backrooms3Root",
+        "Floor"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "3A1E5B26-926F-459E-9D63-F623FE9BC40D" : {
+    "objectMetadataList" : [
+      [
+        "3A1E5B26-926F-459E-9D63-F623FE9BC40D",
+        "Root",
+        "Video_Dock",
+        "Ground",
+        "Material"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "3A1E5B26-926F-459E-9D63-F623FE9BC40D",
+        "Root",
+        "Video_Dock"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "3A1E5B26-926F-459E-9D63-F623FE9BC40D",
+        "Root",
+        "Video_Dock",
+        "Ground"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "3A1E5B26-926F-459E-9D63-F623FE9BC40D",
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -43,7 +94,8 @@
       [
         "5823621C-B10F-4D82-84D7-882D92C5BF87",
         "backrooms3Root",
-        "Floor"
+        "Ceiling_Close",
+        "CeilingCloseMaterial"
       ],
       {
         "isExpanded" : true,
@@ -52,8 +104,25 @@
       [
         "5823621C-B10F-4D82-84D7-882D92C5BF87",
         "backrooms3Root",
-        "_materials",
-        "carpet"
+        "Wall_Far"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "_materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Ceiling_Close"
       ],
       {
         "isExpanded" : true,
@@ -72,46 +141,8 @@
       [
         "5823621C-B10F-4D82-84D7-882D92C5BF87",
         "backrooms3Root",
-        "_materials"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "5823621C-B10F-4D82-84D7-882D92C5BF87",
-        "backrooms3Root",
         "Wall_Close",
         "WallCloseMaterial"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "5823621C-B10F-4D82-84D7-882D92C5BF87",
-        "backrooms3Root",
-        "Ceiling_Close",
-        "CeilingCloseMaterial"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "5823621C-B10F-4D82-84D7-882D92C5BF87",
-        "backrooms3Root",
-        "Ceiling_Close"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "5823621C-B10F-4D82-84D7-882D92C5BF87",
-        "backrooms3Root",
-        "Ceiling_Close",
-        "Ceiling_Close"
       ],
       {
         "isExpanded" : true,
@@ -128,7 +159,55 @@
       },
       [
         "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "_materials",
+        "carpet"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Ceiling_Close",
+        "Ceiling_Close"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
         "backrooms3Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Wall_Close"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Floor"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "5823621C-B10F-4D82-84D7-882D92C5BF87",
+        "backrooms3Root",
+        "Wall_Far",
+        "WallFarMaterial"
       ],
       {
         "isExpanded" : true,
