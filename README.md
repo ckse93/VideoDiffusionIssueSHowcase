@@ -30,3 +30,9 @@ Finished computing diffuse reflection UVs. Please use the following options in R
 1. opened backroomsDiffuseComputed.usdc in Reality Composer Pro
 2. added nodes to carpet materials to  <img width="1179" alt="Screenshot 2025-01-08 at 11 11 25 PM" src="https://github.com/user-attachments/assets/c1c429ea-b0de-4d9c-8ae3-3cc6c85daae2" />
 3. follwed similar workflow for other objects. Other objects do not have `ReflectionSpecular` node added. As i only want to show diffusion on wall / ceiling.
+
+## Expected result
+diffused light spill should have color.
+
+## actual result
+diffused light spill does not have color, only showing white. it animates according to the video.
