@@ -36,3 +36,8 @@ diffused light spill should have color.
 
 ## actual result
 diffused light spill does not have color, only showing white. it animates according to the video.
+
+## Solved
+swizzle node's channel should be changed from rrr to rgb
+<img width="886" alt="Screenshot 2025-01-09 at 12 08 55 AM" src="https://github.com/user-attachments/assets/0667b803-b2dd-4ffb-8738-9950350d4f24" />
+
